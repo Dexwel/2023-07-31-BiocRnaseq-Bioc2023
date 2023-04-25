@@ -428,9 +428,8 @@ please preview your site before committing, and make sure to run
   {% elsif site.carpentry == "lc" %}
   Library Carpentry
   {% elsif site.carpentry == "bioc" %}		
-  Bioconductor workshop
-  {% endif %}
-  workshop,
+  Bioconductor
+  {% endif %} workshop,
   you will need access to software as described below.
   In addition, you will need an up-to-date web browser.
 </p>
